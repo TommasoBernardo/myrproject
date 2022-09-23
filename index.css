@@ -1,0 +1,121 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  }
+
+  #box1 {
+height: 700px;
+width: 930px;
+background-color: black;
+position: relative;
+background: rgba(0, 0, 0, 0.5);
+left: 20%;
+margin-top: 30px;
+border-radius: 10px 10px 10px 10px;
+
+}
+
+.logo{
+width: 180px;
+margin-left: 360px;
+margin-top: 80px;
+}
+
+.scritta{
+  color : lime;
+  margin-left: 250px;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  width: 550px;
+}
+
+#sfondobottoni{
+  display:block;
+  background-color: lime;
+  margin-left: 100px;
+  width: 730px;
+  padding: 8px;
+}
+.bottoni{
+position: relative;
+left : 210px;
+}
+.check{
+  position: relative;
+  left: 110px;
+  display: inline-block;
+  color: white;
+}
+
+
+.paragrafo{
+  color: white;
+  width: 270px;
+  position: relative;
+  left: 110px;
+  bottom: 20px;
+
+}
+#carica1{
+  background-color:orange;
+  width: 250px;
+  padding: 12px;
+  border-radius: 5px 5px 5px 5px;
+  position: relative;
+  left: 110px;
+  bottom: 20px;
+  }
+
+  .check2{
+    position: relative;
+    left: 110px;
+    bottom: 20px;
+    display: inline-block;
+    color:white;
+}
+
+
+
+  .paragrafo1{
+    color: white;
+    width: 250px;
+    position: relative;
+    left: 110px;
+    bottom: 40px;
+  }
+
+  #carica2{
+    position: relative;
+    left: 110px;
+    bottom: 40px;
+    background-color: lime;
+    width: 420px;
+    padding: 12px;
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .check3{
+    position: relative;
+    left: 110px;
+    bottom: 40px;
+    display: inline-block;
+    color:white;
+}
+
+.paragrafo3{
+  color: white;
+  width: 250px;
+  position: relative;
+  left: 110px;
+  bottom: 60px;
+}
+
+  #carica3{
+    position: relative;
+    left: 110px;
+    bottom: 60px;
+    background-color: darkred;
+    width: 100px;
+    padding: 12px;
+    border-radius: 5px 5px 5px 5px;
+  }
